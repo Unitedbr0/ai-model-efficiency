@@ -1,3 +1,4 @@
 model,accuracy,latency 
 Model_B,0.89,100 
 Model_C,0.94,150 
+Model_A,0.92,120 
